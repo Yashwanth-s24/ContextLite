@@ -1,0 +1,10 @@
+
+complex_text,simple_text
+"The computational complexity of the algorithm increases exponentially with respect to the dimensionality of the input space.","The algorithm takes much more time as the number of input dimensions increases."
+"Photosynthesis is the biochemical process through which plants convert light energy into chemical energy.","Photosynthesis is how plants use light to make chemical energy."
+"Inflammation is the physiological response of tissue to harmful stimuli such as pathogens or damaged cells.","Inflammation is how body tissues respond to harmful things like germs or cell damage."
+"Evaporation occurs when molecules at the surface of a liquid gain enough energy to enter the gaseous phase.","Evaporation happens when liquid molecules gain enough energy to become gas."
+"Neural networks consist of interconnected artificial neurons that process information through weighted connections.","Neural networks are groups of connected artificial neurons that process information using weights."
+"An increase in atmospheric greenhouse gas concentrations contributes to the retention of thermal radiation.","More greenhouse gases in the atmosphere trap heat."
+"Supervised learning uses labelled examples to learn a mapping between inputs and expected outputs.","Supervised learning uses labelled examples to learn the correct output for an input."
+"Data normalization transforms numerical features to a common scale without necessarily changing their underlying distribution.","Data normalization puts numerical features on a similar scale."
