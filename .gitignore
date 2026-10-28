@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and local environment settings
+.env
+
+# Model checkpoints and downloaded weights
+checkpoints/
+models/
+*.pt
+*.pth
+*.safetensors
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
